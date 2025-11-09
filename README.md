@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://github.com/kavindev-ai/kavindev-ai/assets/your_image_id_here" height="350px"></img>
-</div><br><br>
+
 
 <h1 align="center">Hi , I'm Kavin 🤝</h1>
 <br>
@@ -60,25 +58,3 @@ Currently, I’m learning to *build AI Agents* using tools like *n8n, **Flowise,
 
 ---
 
-<h3>📊 GitHub Stats & Contributions</h3>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavindev-ai&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kavindev-ai&theme=github_dark)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindev-ai&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" width=350px /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavindev-ai&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="Kavin's GitHub stats" /></p>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavindev-ai&theme=github_dark)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindev-ai&theme=dark&background=0d1117"/></p>
-
----
-
-<h2>🏆 My GitHub Profile Trophy</h2>
-<p align="center">
-  <img width="1000" src="https://github-profile-trophy.vercel.app/?username=kavindev-ai&column=9&no-frame=true&theme=github_dark" alt="Kavin's trophies" />
-</p>
-
-<br>
-
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
