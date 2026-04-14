@@ -28,7 +28,7 @@ Currently, I’m learning to *build AI Agents* using tools like *n8n, **Flowise,
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=SQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 ---
 
 # ⚙ AI & Automation Tools <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">&nbsp;
