@@ -2,7 +2,7 @@
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-<h1 align="center">Hi , I'm Kavin 🤝</h1>
+<h1 align="center">Hi , I'm Kavin 🤝</h1><img align="center" alt="Banner" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 <br>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=00FFFF&size=35&center=true&vCenter=true&width=600&height=100&lines=AI+Developer;CSE+(AIML)+Student;Self+Taught+Learner;Aspiring+AI+Domain+Engineer;Love+to+Create+New+Things"></p><br><br>
