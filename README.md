@@ -1,52 +1,40 @@
-👋 Hey, I'm Kavin!
-
----
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Kavin;AI+%26+Machine+Learning+Engineer;Open+Source+Contributor;Building+Future+with+AI;Always+Learning+Something+New" /><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3l5M3Q2aW4yMnd4YzQ0N2d1YjB5cDlmZzVvYTZmOWVxNTR0bDl5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/><br><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge"/><img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge"/></div>---
 
 🚀 About Me
 
 Name: Kavin
-Education: B.E CSE (AIML)
+Role: AIML Student
 College: Thiagarajar College of Engineering
-Location: India
 Current Focus:
+  - Artificial Intelligence
   - Machine Learning
-  - Data Science
   - Open Source
   - Full Stack Development
-Goal:
-  - Become an AIML Engineer
+
+Mission:
+  Build impactful AI products.
 
 ---
 
-🌟 Current Journey
+⚡ Tech Arsenal
 
-- 🔭 Working on AIML Projects
-- 🌱 Learning Python, ML & Deep Learning
-- 🤝 Contributing to Open Source
-- 💡 Building Real-World Projects
-- 📚 Exploring AI Agents & Automation
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch,html,css,javascript,git,github,vscode,linux"/></p>---
 
----
+📊 GitHub Statistics
 
-🛠 Tech Stack
-
-Languages
-
-Frameworks & Libraries
-
-Tools
-
----
-
-📊 GitHub Analytics
-
----
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/></p>---
 
 📈 Contribution Graph
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>---
 
-🏆 GitHub Trophies
+🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=2&column=4"/>---
+
+🐍 Contribution Snake
+
+"snake gif" (https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -54,44 +42,30 @@ Tools
 
 🚂 AI Train Accident Prevention
 
-AI + GPS based railway safety system.
+AI + GPS based intelligent railway safety system.
 
 🌡 Temperature Prediction System
 
-Machine Learning model for future temperature forecasting.
+Machine learning based future temperature forecasting.
 
 ⚡ Smart Motion Sensing Plug
 
-IoT + Automation based smart energy solution.
+Energy-efficient smart automation project.
 
 🍽 Dishlet
 
-Food recommendation and ordering platform.
+Modern food ordering and recommendation platform.
 
 ---
 
-📚 Learning Roadmap
+🌐 Connect With Me
 
-Python            ████████████░░░░ 80%
-Machine Learning  ██████████░░░░░░ 70%
-Deep Learning     ███████░░░░░░░░░ 50%
-Data Science      █████████░░░░░░░ 60%
-Open Source       ███████████░░░░░ 75%
+<p align="center"><a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
 
----
+</p>---
 
-🌍 Connect With ME 
+<div align="center">⭐ Thanks for Visiting ⭐
 
-|
-
-|
-
----
-
-💭 Developer Quote
-
-«"The best way to learn AI is to build, break, debug, and build again."»
-
----
-
-⭐ Thanks for visiting my profile ⭐
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF88&center=true&width=800&lines=Keep+Learning;Keep+Building;Keep+Contributing;Keep+Growing" /></div>
