@@ -3,11 +3,14 @@
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 <h1 align="center">Hi , I'm Kavin 🤝</h1>
+  
 <br>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=00FFFF&size=35&center=true&vCenter=true&width=600&height=100&lines=AI+Developer;CSE+(AIML)+Student;Self+Taught+Learner;Aspiring+AI+Domain+Engineer;Love+to+Create+New+Things"></p><br><br>
 
-## 💡 About Me 🙋<br>
+
+## 🙋‍♂️ About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px">
+
 
 Hi, I’m *Kavin* — a passionate *CSE (AIML)* student exploring the world of *AI automation and intelligent agents.*  
 Currently, I’m learning to *build AI Agents* using tools like *n8n, **Flowise, **LangFlow, and **Make (Integromat)* — while experimenting with *RAG, **MCP Server, and **OpenAI APIs*.  
