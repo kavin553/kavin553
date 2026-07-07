@@ -1,33 +1,19 @@
 <!-- ================= HERO BANNER ================= -->
+<p align="center">
+<img width="100%" src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
+</p>
 <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/kavin553?utm_source=share_via&utm_content=profile&utm_medium=member_android">Kavin 🚀</h1> 
      
 <div id="header" align="center">  
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/> 
 </div>
 
-<div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CSE'27+Undergrad;Passionate+about+Coding!)](https://git.io/typing-svg)
-
-</div>
 <p align="center">
-<img width="100%" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=00FFFF&size=35&center=true&vCenter=true&width=800&height=100&lines=AI+Developer;CSE+(AIML)+Student;Self+Taught+Learner;Aspiring+AI+Domain+Engineer;Love+to+Create+New+Things"/>
 </p>
-
-<div align="left">
-
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
-
-<h1 align="center">
-Hi, I'm Kavin 🤝
-</h1>
 
 <p align="center">
 <img width="100%" src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=00FFFF&size=35&center=true&vCenter=true&width=800&height=100&lines=AI+Developer;CSE+(AIML)+Student;Self+Taught+Learner;Aspiring+AI+Domain+Engineer;Love+to+Create+New+Things"/>
 </p>
 
 <br>
