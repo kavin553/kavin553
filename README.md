@@ -69,13 +69,33 @@
 <p align="center">
   <img width="100%" src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
 </p>
-## 🙋‍♂️ About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px">
+## 🙋‍♂️ About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"><img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1d-8f1d-4f78f08d31b4.gif"/><p align="left">
 
-Hi, I'm **Kavin** — a passionate **CSE (AIML)** student exploring the world of **AI Automation** and **Intelligent Agents**.
+✨ Hi, I'm **Kavin** — a passionate **Computer Science (AIML)** student who loves building **AI-powered applications**, **automation workflows**, and contributing to **Open Source**.
 
-Currently, I'm learning to build **AI Agents** using **n8n**, **Flowise**, **LangFlow**, and **Make (Integromat)** while experimenting with **RAG**, **MCP Server**, and **OpenAI APIs**.
+🤖 Currently exploring **AI Agents**, **LLMs**, **RAG**, **MCP**, and modern AI development tools like **n8n**, **Flowise**, **LangFlow**, and **OpenAI APIs**.
 
-🚀 My goal is to create innovative AI products and automation systems that make technology smarter, faster, and more human-friendly.
+🚀 **Mission:** Build intelligent products that solve **real-world problems** and make technology smarter, faster, and more accessible.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🤖-AI%20Enthusiast-blueviolet?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🌍-Open%20Source-success?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🧠-Always%20Learning-00C853?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🚀-Building%20Projects-orange?style=flat-square"/>
+
+</p>
+
+<p align="center">
+
+💡 **"Learn • Build • Share • Repeat."**
+
+</p>
 
 <p align="center">
 <img width="100%" src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
