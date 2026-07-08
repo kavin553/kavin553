@@ -44,6 +44,10 @@
 
 <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/AI-Explorer-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Lifelong-Learner-orange?style=for-the-badge"/>
+
 </p>
 
 <!-- Typing Animation -->
