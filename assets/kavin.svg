@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140">
+
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .dot{
+        fill:#1f6f2b;
+        filter:url(#glow);
+        animation:pulse 2s infinite;
+      }
+
+      @keyframes pulse{
+        0%{fill:#1f6f2b;}
+        50%{fill:#39d353;}
+        100%{fill:#1f6f2b;}
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="450" y="25"
+        text-anchor="middle"
+        font-size="18"
+        fill="#58a6ff"
+        font-family="monospace">
+        Future AI Engineer 🚀
+  </text>
+
+  <!-- K -->
+  <g transform="translate(40,40)">
+    <rect class="dot" x="0" y="0" width="12" height="12"/>
+    <rect class="dot" x="0" y="18" width="12" height="12"/>
+    <rect class="dot" x="0" y="36" width="12" height="12"/>
+    <rect class="dot" x="0" y="54" width="12" height="12"/>
+    <rect class="dot" x="0" y="72" width="12" height="12"/>
+
+    <rect class="dot" x="18" y="36" width="12" height="12"/>
+    <rect class="dot" x="36" y="18" width="12" height="12"/>
+    <rect class="dot" x="36" y="54" width="12" height="12"/>
+    <rect class="dot" x="54" y="0" width="12" height="12"/>
+    <rect class="dot" x="54" y="72" width="12" height="12"/>
+  </g>
+
+  <!-- A -->
+  <g transform="translate(160,40)">
+    <rect class="dot" x="18" y="0" width="12" height="12"/>
+    <rect class="dot" x="0" y="18" width="12" height="12"/>
+    <rect class="dot" x="36" y="18" width="12" height="12"/>
+    <rect class="dot" x="0" y="36" width="12" height="12"/>
+    <rect class="dot" x="18" y="36" width="12" height="12"/>
+    <rect class="dot" x="36" y="36" width="12" height="12"/>
+    <rect class="dot" x="0" y="54" width="12" height="12"/>
+    <rect class="dot" x="36" y="54" width="12" height="12"/>
+    <rect class="dot" x="0" y="72" width="12" height="12"/>
+    <rect class="dot" x="36" y="72" width="12" height="12"/>
+  </g>
+
+  <!-- V -->
+  <g transform="translate(280,40)">
+    <rect class="dot" x="0" y="0" width="12" height="12"/>
+    <rect class="dot" x="0" y="18" width="12" height="12"/>
+    <rect class="dot" x="0" y="36" width="12" height="12"/>
+    <rect class="dot" x="18" y="54" width="12" height="12"/>
+    <rect class="dot" x="36" y="72" width="12" height="12"/>
+    <rect class="dot" x="54" y="54" width="12" height="12"/>
+    <rect class="dot" x="72" y="36" width="12" height="12"/>
+    <rect class="dot" x="72" y="18" width="12" height="12"/>
+    <rect class="dot" x="72" y="0" width="12" height="12"/>
+  </g>
+
+  <!-- I -->
+  <g transform="translate(430,40)">
+    <rect class="dot" x="0" y="0" width="12" height="12"/>
+    <rect class="dot" x="0" y="18" width="12" height="12"/>
+    <rect class="dot" x="0" y="36" width="12" height="12"/>
+    <rect class="dot" x="0" y="54" width="12" height="12"/>
+    <rect class="dot" x="0" y="72" width="12" height="12"/>
+  </g>
+
+  <!-- N -->
+  <g transform="translate(500,40)">
+    <rect class="dot" x="0" y="0" width="12" height="12"/>
+    <rect class="dot" x="0" y="18" width="12" height="12"/>
+    <rect class="dot" x="0" y="36" width="12" height="12"/>
+    <rect class="dot" x="0" y="54" width="12" height="12"/>
+    <rect class="dot" x="0" y="72" width="12" height="12"/>
+
+    <rect class="dot" x="18" y="18" width="12" height="12"/>
+    <rect class="dot" x="36" y="36" width="12" height="12"/>
+    <rect class="dot" x="54" y="54" width="12" height="12"/>
+
+    <rect class="dot" x="72" y="0" width="12" height="12"/>
+    <rect class="dot" x="72" y="18" width="12" height="12"/>
+    <rect class="dot" x="72" y="36" width="12" height="12"/>
+    <rect class="dot" x="72" y="54" width="12" height="12"/>
+    <rect class="dot" x="72" y="72" width="12" height="12"/>
+  </g>
+
+  <!-- Footer -->
+  <text x="450" y="130"
+        text-anchor="middle"
+        font-size="14"
+        fill="#8b949e"
+        font-family="monospace">
+        ● GitHub Contribution Style ●
+  </text>
+
+</svg>
