@@ -185,34 +185,40 @@
 
 ## ⭐ Open Source Highlights
 
-✨ **729+ Contributions**
+<p align="center">
 
-🚀 **40+ Public Repositories**
+<img src="https://img.shields.io/badge/🔥_729+-Contributions-blueviolet?style=for-the-badge"/>
 
-🔀 **50+ Pull Requests**
+<img src="https://img.shields.io/badge/📂_40+-Repositories-success?style=for-the-badge"/>
 
-🐞 **Multiple GitHub Issues Created**
+<img src="https://img.shields.io/badge/🔀_50+-Pull_Requests-orange?style=for-the-badge"/>
 
-💬 **Code Reviews & Discussions**
+<img src="https://img.shields.io/badge/🐞_Issues-Created-red?style=for-the-badge"/>
 
-🌱 **Active GSSoC 2026 Contributor**
+<img src="https://img.shields.io/badge/💬_Code-Reviews-informational?style=for-the-badge"/>
 
-🤝 **Collaborating with Developers Worldwide**
+<img src="https://img.shields.io/badge/🌱_GSSoC-2026-success?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/🤝_Open_Source-Collaborator-blue?style=for-the-badge"/>
+
+</p>
 ---
 
 ## 🎯 Open Source Goals
 
-✅ Contribute every week
+<p align="center">
 
-✅ Reach 1000+ Contributions
+<img src="https://img.shields.io/badge/✅_Weekly-Contributions-brightgreen?style=for-the-badge"/>
 
-✅ Build impactful AI Projects
+<img src="https://img.shields.io/badge/🎯_1000+-Contributions-blue?style=for-the-badge"/>
 
-✅ Help beginners in Open Source
+<img src="https://img.shields.io/badge/🤖_Build-AI_Projects-purple?style=for-the-badge"/>
 
-✅ Become a Top GitHub Contributor
+<img src="https://img.shields.io/badge/💙_Help-Beginners-orange?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/🏆_Top-GitHub_Contributor-red?style=for-the-badge"/>
+
+</p>
 ---
 
 ## 💡 Developer Philosophy
