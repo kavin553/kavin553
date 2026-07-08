@@ -1,4 +1,30 @@
 <!-- ===================== HERO SECTION ===================== -->
+
+<h2 align="center">
+💚 Thanks for Visiting My Profile 💚
+</h2>
+
+<p align="center">
+✨ Building AI • Learning Every Day • Contributing to Open Source • Never Stop Growing 🚀
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=CSE+(AIML)+Student;AI+Developer;Open+Source+Contributor;Future+AI+Engineer;Thanks+for+visiting+my+profile+💚"/>
+</p>
+
+<p align="center">
+<i>"Code. Learn. Build. Share. Repeat." 🚀</i>
+</p>
+
+<p align="center">
+🌟 Keep Learning • Keep Building • Keep Innovating 🌟
+</p>
+
+<p align="center">
+See You Again 👋😊
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,25:8A2BE2,50:FF1493,75:00FF7F,100:00F5FF&height=120&section=footer"/>
+
 <!-- RGB Animated Divider -->
 <p align="center">
   <img width="100%" src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
@@ -276,4 +302,31 @@
 
 <p align="center">
 <img width="100%" src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
+</p>
+
+## 💙 Thanks for Visiting
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=See%20You%20Again!&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+</p>
+
+<h3 align="center">
+
+⭐ If you like my work,
+consider giving a ⭐ to my repositories!
+
+</h3>
+
+<p align="center">
+
+🚀 Dream Big • Learn Daily • Build Fearlessly • Share Knowledge
+
+</p>
+
+<p align="center">
+
+💜 AI • Open Source • Innovation • Continuous Learning
+
 </p>
