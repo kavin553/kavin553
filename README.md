@@ -22,11 +22,6 @@
 🚀 AI Developer • Open Source Contributor • AIML Student • Future AI Engineer
 </h3>
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavin553&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
-</p>
-
 <!-- Social Badges -->
 <p align="center">
 
@@ -46,10 +41,6 @@
 
 <!-- GitHub Badges -->
 <p align="center">
-
-<img src="https://img.shields.io/github/followers/kavin553?label=Followers&style=for-the-badge&color=blue"/>
-
-<img src="https://img.shields.io/github/stars/kavin553?style=for-the-badge&color=yellow"/>
 
 <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
 
