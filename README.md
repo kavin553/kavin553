@@ -138,7 +138,6 @@
 <p align="center">
 <img width="100%" src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
 </p>
----
 
 ## 🔥 Contribution Streak
 
@@ -148,8 +147,6 @@
 
 </p>
 
----
-
 ## 📅 Contribution Activity Graph
 
 <p align="center">
@@ -157,7 +154,76 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kavin553&theme=tokyo-night&hide_border=true"/>
 
 </p>
+
+<p align="center">
+<img width="100%" src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
+</p>
+
+# 🌍 Open Source Journey <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35px">
+
+<p align="center">
+<i>✨ Building in Public • Learning by Contributing • Growing Every Day 🚀</i>
+</p>
+
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/kavin553/kavin553/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
+
+---
+
+## 🏆 GitHub Trophy Wall
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kavin553&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## ⭐ Open Source Highlights
+
+✨ **729+ Contributions**
+
+🚀 **40+ Public Repositories**
+
+🔀 **50+ Pull Requests**
+
+🐞 **Multiple GitHub Issues Created**
+
+💬 **Code Reviews & Discussions**
+
+🌱 **Active GSSoC 2026 Contributor**
+
+🤝 **Collaborating with Developers Worldwide**
+
+---
+
+## 🎯 Open Source Goals
+
+✅ Contribute every week
+
+✅ Reach 1000+ Contributions
+
+✅ Build impactful AI Projects
+
+✅ Help beginners in Open Source
+
+✅ Become a Top GitHub Contributor
+
+---
+
+## 💡 Developer Philosophy
+
+> **"Code. Learn. Share. Repeat."** 🚀
+
+> **"Small contributions every day create extraordinary results."** 🌱
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
 
 <p align="center">
 <img width="100%" src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
