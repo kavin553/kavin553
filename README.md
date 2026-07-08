@@ -4,9 +4,9 @@
 </p>
 <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/kavin553?utm_source=share_via&utm_content=profile&utm_medium=member_android">Kavin 🚀</h1> 
      
-<div id="header" align="center">  
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/> 
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Banner" width="100%">
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=00FFFF&size=35&center=true&vCenter=true&width=800&height=100&lines=AI+Developer;CSE+(AIML)+Student;Self+Taught+Learner;Aspiring+AI+Domain+Engineer;Love+to+Create+New+Things"/>
