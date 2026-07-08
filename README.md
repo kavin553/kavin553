@@ -178,15 +178,53 @@
     src="https://raw.githubusercontent.com/kavin553/kavin553/output/pacman-contribution-graph-dark.svg">
 </picture>
 </p>
----
 
-## 🏆 GitHub Trophy Wall
+## 🏅 GSSoC 2026 Achievement Wall 🏆
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kavin553&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=🏅+Unlocking+Milestones+One+Badge+at+a+Time...;🚀+Proud+GSSoC+2026+Open+Source+Contributor;⭐+Learning+•+Building+•+Contributing+Every+Day!" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kavin553/kavin553/main/badges/ai.png" width="85"/>
+  <img src="https://raw.githubusercontent.com/kavin553/kavin553/main/badges/contributor.png" width="85"/>
+  <img src="https://raw.githubusercontent.com/kavin553/kavin553/main/badges/open.png" width="85"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kavin553/kavin553/main/badges/gssoc-badge-getting_started.png" width="85"/>
+  <img src="https://raw.githubusercontent.com/kavin553/kavin553/main/badges/gssoc-badge-profile_complete.png" width="85"/>
+  <img src="https://raw.githubusercontent.com/kavin553/kavin553/main/badges/gssoc-badge-discord_verified.png" width="85"/>
+  <img src="https://raw.githubusercontent.com/kavin553/kavin553/main/badges/gssoc-badge-first_steps.png" width="85"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kavin553/kavin553/main/badges/gssoc-badge-week_one.png" width="85"/>
+  <img src="https://raw.githubusercontent.com/kavin553/kavin553/main/badges/gssoc-badge-rising_star.png" width="85"/>
+  <img src="https://raw.githubusercontent.com/kavin553/kavin553/main/badges/gssoc-badge-building_momentum.png" width="85"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kavin553/kavin553/main/badges/gssoc-badge-on_a_roll.png" width="85"/>
+  <img src="https://raw.githubusercontent.com/kavin553/kavin553/main/badges/gssoc-badge-point_scorer.png" width="85"/>
+  <img src="https://raw.githubusercontent.com/kavin553/kavin553/main/badges/gssoc-badge-power_contributor.png" width="85"/>
+  <img src="https://raw.githubusercontent.com/kavin553/kavin553/main/badges/gssoc-badge-elite.png" width="85"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kavin553/kavin553/main/badges/gssoc-badge-role_contributor.png" width="85"/>
+  <img src="https://raw.githubusercontent.com/kavin553/kavin553/main/badges/gssoc-badge-bounty_hunter.png" width="85"/>
+  <img src="https://raw.githubusercontent.com/kavin553/kavin553/main/badges/gssoc-badge-bounty_master.png" width="85"/>
+</p>
+
+<p align="center">
+✨ <b>Every badge represents a milestone achieved through consistent contributions, collaboration, and continuous learning in GSSoC 2026.</b> 🚀
+</p>
+
+<p align="center">
+<img width="100%" src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
+</p>
+
 
 ## ⭐ Open Source Highlights
 
@@ -207,7 +245,7 @@
 <img src="https://img.shields.io/badge/🤝_Open_Source-Collaborator-blue?style=for-the-badge"/>
 
 </p>
----
+
 
 ## 🎯 Open Source Goals
 
@@ -224,7 +262,7 @@
 <img src="https://img.shields.io/badge/🏆_Top-GitHub_Contributor-red?style=for-the-badge"/>
 
 </p>
----
+
 
 ## 💡 Developer Philosophy
 
