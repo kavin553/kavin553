@@ -1,23 +1,79 @@
-<!-- ================= HERO BANNER ================= -->
+<!-- ===================== HERO SECTION ===================== -->
+
+<!-- RGB Animated Divider -->
 <p align="center">
-<img width="100%" src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
-</p>
-<h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/kavin553?utm_source=share_via&utm_content=profile&utm_medium=member_android">Kavin 🚀</h1> 
-     
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Banner" width="100%">
+  <img width="100%" src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
 </p>
 
+<!-- Pixel Banner -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=00FFFF&size=35&center=true&vCenter=true&width=800&height=100&lines=AI+Developer;CSE+(AIML)+Student;Self+Taught+Learner;Aspiring+AI+Domain+Engineer;Love+to+Create+New+Things"/>
+  <img width="100%" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 </p>
 
+<!-- Welcome Heading -->
+<h1 align="center">
+  Hi!! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="38"/>
+  I'm
+  <a href="https://github.com/kavin553">Kavin</a>
+  🚀
+</h1>
+
+<h3 align="center">
+🚀 AI Developer • Open Source Contributor • AIML Student • Future AI Engineer
+</h3>
+
+<!-- Visitor Counter -->
 <p align="center">
-<img width="100%" src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
+  <img src="https://komarev.com/ghpvc/?username=kavin553&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
 </p>
 
-<br>
+<!-- Social Badges -->
+<p align="center">
 
+<a href="https://github.com/kavin553">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kavin553">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kavindharmaraj553@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<!-- GitHub Badges -->
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/kavin553?label=Followers&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/kavin553?style=for-the-badge&color=yellow"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
+
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer;CSE+(AIML)+Student;Open+Source+Contributor;Machine+Learning+Enthusiast;Building+AI+Automation;Learning+LLMs+%26+RAG;Future+AI+Engineer;Love+to+Create+New+Things"/>
+</p>
+
+<!-- Robot GIF -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="320"/>
+</p>
+
+<!-- Developer Motto -->
+<h3 align="center">
+💡 Building AI • Learning Every Day • Contributing to Open Source • Solving Real-World Problems 🚀
+</h3>
+
+<!-- RGB Animated Divider -->
+<p align="center">
+  <img width="100%" src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
+</p>
 ## 🙋‍♂️ About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px">
 
 Hi, I'm **Kavin** — a passionate **CSE (AIML)** student exploring the world of **AI Automation** and **Intelligent Agents**.
