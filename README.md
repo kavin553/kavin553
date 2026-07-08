@@ -138,22 +138,6 @@
 <p align="center">
 <img width="100%" src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
 </p>
-
-# 📊 GitHub Analytics <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35px">
-
-<p align="center">
-  <i>📈 Every contribution tells a story. Every commit is a step toward mastery.</i>
-</p>
-
----
-
-## 📈 GitHub Performance Dashboard
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavin553&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavin553&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🔥 Contribution Streak
@@ -173,21 +157,6 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kavin553&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
----
-
-## 💡 Developer Quote
-
-<p align="center">
-
-<h3 align="center">
-
-✨ <i>"Consistency beats talent when talent doesn't stay consistent."</i>
-
-</h3>
-
-</p>
-
 ---
 
 <p align="center">
